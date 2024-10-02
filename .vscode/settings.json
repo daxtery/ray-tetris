@@ -1,0 +1,18 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "*.feature": "json",
+        "*.h": "c",
+        "*.c": "c",
+        "compare": "c",
+        "type_traits": "c",
+        "cstdint": "c",
+        "cmath": "c"
+    },
+    "C_Cpp.default.compilerArgs": [
+        "-Wall"
+    ],
+    "C_Cpp.default.defines": [
+        "RAYGUI_IMPLEMENTATION"
+    ]
+}
