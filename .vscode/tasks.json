@@ -14,7 +14,7 @@
                 "${file}",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}",
-                "-lraylib",
+                "-l:libraylib.a",
                 "-lGL",
                 "-lm",
             ],
